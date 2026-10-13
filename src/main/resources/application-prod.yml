@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: leave-management-api
+
+server:
+  port: 8080
+
+logging:
+  level:
+    root: WARN
+    com.example.leavemanagement: INFO
